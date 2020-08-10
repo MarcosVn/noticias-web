@@ -42,16 +42,16 @@ Abrir [http://localhost:3000](http://localhost:3000)
 # Exemplos de Tela
 
 - Home:
-<img src="prints/home.png">
+<img src="home.png">
 
 - Login/Cadastro de Usuário:
-<img src="prints/autenticacao.png">
+<img src="autenticacao.png">
 
 - Cadastro de Notícias
-<img src="prints/criar-noticia.png">
+<img src="criar-noticia.png">
 
 - Listagem, edição, remoção
-<img src="prints/lista-edicao-remocao.png">
+<img src="lista-edicao-remocao.png">
 
 
 [NodeJS]: <https://nodejs.org/>
