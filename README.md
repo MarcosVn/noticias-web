@@ -1,5 +1,5 @@
 # O APP
-- App web desenvolvido em ReactJS que permite o gerenciamento de notícias através da API desenvolvida em: https://github.com/MarcosVn/noticias-api, incluindo a integração da autenticação via JWT desenvolvida.
+- App web desenvolvido em ReactJS que permite o gerenciamento de notícias através da API desenvolvida em: https://github.com/MarcosVn/noticias-api, incluindo a integração da autenticação via JWT.
 
 # Pré-requisitos
 - [NodeJS] instalado 
